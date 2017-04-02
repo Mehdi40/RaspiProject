@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-route": "^3.2.0",
+    "nodejs": "^0.0.0"
+  }
+}
